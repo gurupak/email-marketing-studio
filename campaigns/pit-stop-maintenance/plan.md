@@ -142,16 +142,16 @@ There are no paid ads and no other channels. The list is small enough for your t
 
 ### Campaign
 
-| Week | Date | Content piece | Channel | Owner/Notes | Status |
-|---|---|---|---|---|---|
-| 1 | Mon, Dec 7 | Email 1: "It's here" announcement | Email | Goes to everyone, with one opening line per group | Not started |
-| 1 | Thu, Dec 10 | Email 2: How it works in your role | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
-| 2 | Tue, Dec 15 | Email 3: A useful tip for your role | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
-| 2 | Thu, Dec 17 | Email 4: Quick answers on price, setup and terms | Email | One version, easy to forward to a general manager. Skip subscribed stores. | Not started |
-| 3 | Tue, Dec 22 | Email 5: Short reminder before the holidays | Email | One version. Skip subscribed stores. | Not started |
-| 3–4 | Dec 23–28 | No emails | n/a | Holiday break | n/a |
-| 4 | Tue, Dec 29 | Email 6: Last call for the launch price | Email | One version. Skip subscribed stores. The launch price ends January 3, so this deadline must be honored. | Not started |
-| 4 | Sun, Jan 3 | Campaign ends | n/a | Final count starts Mon, Jan 4 | Not started |
+| Week | Date | Content piece | Audience | Purpose | Channel | Owner/Notes | Status |
+|---|---|---|---|---|---|---|---|
+| 1 | Mon, Dec 7 | Email 1: "It's here" announcement | All three groups | Announce the service and invite stores to book a demo | Email | Goes to everyone, with one opening line per group | Not started |
+| 1 | Thu, Dec 10 | Email 2: How it works in your role | The Deal Desk, The Service Lane and The Store Leaders, one version each | Show how it works in each role | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
+| 2 | Tue, Dec 15 | Email 3: A useful tip for your role | The Deal Desk, The Service Lane and The Store Leaders, one version each | Give each role one useful tip | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
+| 2 | Thu, Dec 17 | Email 4: Quick answers on price, setup and terms | All three groups | Answer questions on price, setup and terms | Email | One version, easy to forward to a general manager. Skip subscribed stores. | Not started |
+| 3 | Tue, Dec 22 | Email 5: Short reminder before the holidays | All three groups | Remind stores before the holidays and ask for a decision | Email | One version. Skip subscribed stores. | Not started |
+| 3–4 | Dec 23–28 | No emails | n/a | n/a | n/a | Holiday break | n/a |
+| 4 | Tue, Dec 29 | Email 6: Last call for the launch price | All three groups | Give a last call for the launch price | Email | One version. Skip subscribed stores. The launch price ends January 3, so this deadline must be honored. | Not started |
+| 4 | Sun, Jan 3 | Campaign ends | n/a | n/a | n/a | Final count starts Mon, Jan 4 | Not started |
 
 Update the "skip" and unsubscribe lists before every send.
 
@@ -159,17 +159,17 @@ Update the "skip" and unsubscribe lists before every send.
 
 | Piece | What it contains | Priority | Finish by |
 |---|---|---|---|
-| Service summary | What it is, price, setup steps and terms, in plain words | Must-have | Nov 13 |
-| Sign-up form | Short form with the name, price, full terms and store name. PROCARMA follows up to finish the sign-up. | Must-have | Dec 1 |
-| Demo request form | Short form to request a video demo. The CES admin team follows up to set the time. | Must-have | Dec 1 |
-| Demo script | A short walk-through for each role, following the brand rules | Must-have | Dec 4 |
-| Email 1 | Announcement, one opening line per group | Must-have | Nov 20 draft |
-| Email 2 (3 versions) | How it works in each role | Must-have | Nov 20 draft |
-| Email 3 (3 versions) | One useful tip for each role | Must-have | Nov 20 draft |
-| Email 4 | Price, setup and terms questions | Must-have | Nov 20 draft |
-| Email 5 | Short reminder | Must-have | Nov 20 draft |
-| Email 6 | Last call | Must-have | Nov 20 draft |
-| Email footer | Our postal address and an unsubscribe link | Must-have | Nov 20 draft |
+| Service summary | What it is, price, setup steps and terms, in plain words | Essential | Nov 13 |
+| Sign-up form | Short form with the name, price, full terms and store name. PROCARMA follows up to finish the sign-up. | Essential | Dec 1 |
+| Demo request form | Short form to request a video demo. The CES admin team follows up to set the time. | Essential | Dec 1 |
+| Demo script | A short walk-through for each role, following the brand rules | Essential | Dec 4 |
+| Email 1 | Announcement, one opening line per group | Essential | Nov 20 draft |
+| Email 2 (3 versions) | How it works in each role | Essential | Nov 20 draft |
+| Email 3 (3 versions) | One useful tip for each role | Essential | Nov 20 draft |
+| Email 4 | Price, setup and terms questions | Essential | Nov 20 draft |
+| Email 5 | Short reminder | Essential | Nov 20 draft |
+| Email 6 | Last call | Essential | Nov 20 draft |
+| Email footer | Our postal address and an unsubscribe link | Essential | Nov 20 draft |
 | Welcome email | Setup steps for new subscribers | Nice to have | Dec 1 |
 
 ## 7. Success measures
