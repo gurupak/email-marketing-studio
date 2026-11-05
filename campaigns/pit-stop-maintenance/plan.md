@@ -1,6 +1,6 @@
 # Pit Stop Maintenance: launch plan for dealerships
 
-**Status:** Draft. The items under "Must confirm first" need answers before any email is written.
+**Status:** Draft. The offer is approved, but the prices are suggestions. The items under "Must confirm first" need answers before any email goes out.
 
 **Who this is for:** F&I managers, service managers and general managers at about 200 dealerships on our waitlist.
 
@@ -8,19 +8,37 @@
 
 **Sending:** This studio only plans and drafts. Your team sends the real emails from your own email tool, after approval.
 
+## The offer
+
+| Topic | Decision |
+|---|---|
+| Who we email | About 200 dealerships on the waitlist. Success means 30 of them subscribe. |
+| What a dealership gets | A new service its F&I managers can offer to car buyers as an option, at a price the store sets. Also a setup call, team training and a monthly summary. |
+| Launch offer for its customers | Customers who buy get a complimentary oil change and 5% off a tire rotation, used in the store's own service lane. This is treated as a launch offer, separate from what the contract covers. |
+| Who pays for the launch offer | The dealership pays for both. |
+| Regular price | $299 per month per store. **Suggested, not based on your costs or on market research.** |
+| Launch price | $199 per month for the first 12 months, for stores that sign up by January 3, 2027. **Suggested, as above.** |
+| Cancelling | Month to month, with 30 days' notice. |
+
+**Setup steps**
+
+1. PROCARMA holds a short setup call with the general manager.
+2. PROCARMA trains the F&I and service teams.
+3. F&I managers offer the service to car buyers as an option at the sale.
+4. The service desk applies the launch offer when the customer comes in.
+5. PROCARMA sends a monthly summary of plans sold and customers who came back for service.
+
 ## Must confirm first
 
 | # | Question | Why it matters |
 |---|---|---|
-| 1 | Does a goal of 30 mean 30 dealerships? **This plan assumes it does.** | It sets how we count success and when we stop emailing a store. |
-| 2 | Does the list show which dealership each person works at? How many people per store? | Without this, we can't stop emailing a store once someone there subscribes. |
-| 3 | What does a dealership get, what does it cost, how is it billed and how does it cancel? | Readers need this before they can decide. |
-| 4 | What does setup involve, and who at the store does the work? | We can only say "less admin" if the real steps support it. |
-| 5 | Is the complimentary oil change and 5% off a tire rotation still part of this? If so, who pays, what are the conditions and when does it end? | Brand rule 5 says we must state who pays and not hide conditions. |
-| 6 | Is the service sold as a Maintenance contract? | Brand rule 3 says we can't describe what a contract covers. PROCARMA must approve any wording about the oil change and tire rotation. |
-| 7 | Where do people sign up and book a demo? Who runs the demos, and how many can they do between Dec 8 and Dec 22? | Every email links to these pages, and most subscriptions may start with a demo. |
-| 8 | What were people told when they joined this waitlist? | If they joined for something else, Email 1 must explain the change. |
-| 9 | Is there a real end date for the launch offer? | We can only use a deadline if it is true. |
+| 1 | Do the suggested prices work with your costs? | The prices must cover setup, training and the monthly summary. Once they're in an email, you need to honor them. |
+| 2 | How many times can a customer use each part of the launch offer, and when does it end? | Brand rule 5 says we must not hide conditions. |
+| 3 | Is the service sold as a Maintenance contract, and does PROCARMA approve the launch offer wording? | Brand rule 3 says we can't describe what a contract covers. |
+| 4 | Does the list show which dealership each person works at? How many people per store? | Without this, we can't stop emailing a store once someone there subscribes. |
+| 5 | Where do people sign up and book a demo? Who runs the demos, and how many can they do between Dec 8 and Dec 22? | Every email links to these pages, and most subscriptions may start with a demo. |
+| 6 | Will PROCARMA do the tracking and monthly summary? | We can only say "less admin" if it does. |
+| 7 | What were people told when they joined this waitlist? | If they joined for something else, Email 1 must explain the change. |
 
 ## 1. Campaign overview
 
@@ -55,11 +73,15 @@ We group people by job role. We don't yet know how many people are in each group
 
 **Core message:** Pit Stop Maintenance is a maintenance service for your customers, designed to give them a reason to come back to your service lane without adding much admin for your team.
 
+**Launch offer wording (needs PROCARMA approval):** Customers who buy Pit Stop Maintenance get a complimentary oil change and 5% off a tire rotation. Your store covers the cost of both. See the contract for full terms.
+
+**Price wording (once confirmed):** $199 per month for your first 12 months when you sign up by January 3, then $299 per month. Pay month to month, and cancel with 30 days' notice.
+
 | Group | Supporting message | What we can show |
 |---|---|---|
 | The Deal Desk | One more clear option to offer car buyers, which can help grow revenue. | A short example of how to explain it. It must be clear that buying it is optional. |
 | The Service Lane | Can help bring customers back to your service lane. | The steps from sale to service visit. |
-| The Store Leaders | One service that can help with revenue, return visits and admin. | The price, the setup steps and who does what. We need the real steps before we can claim less admin. |
+| The Store Leaders | One service that can help with revenue, return visits and admin. | The price, the setup steps and who does what. We can claim less admin only if PROCARMA does the tracking and summary. |
 | Everyone | See it first, then decide. A demo shows you how it works. | A demo and clear terms. |
 
 **Proof:** We have no approved results yet, so we won't use numbers, results or dealer names. Emails explain how the service works instead.
@@ -68,7 +90,7 @@ We group people by job role. We don't yet know how many people are in each group
 
 - Say "can help" or "designed to", never "will" (rule 1).
 - Don't use "guaranteed" or "risk-free" (rule 2).
-- Don't describe what a contract covers, and point to the contract instead (rule 3).
+- Don't describe what a contract covers. Mention only the approved launch offer, and point to the contract for the rest (rule 3).
 - Never suggest a car buyer must buy this to get a car, a loan or a better rate (rule 4).
 - Say "complimentary", never "free", and say who pays (rule 5).
 - Don't name car makers, administrators, dealers or competitors without written permission (rule 6).
@@ -115,7 +137,7 @@ There are no paid ads and no other channels. The list is small enough for your t
 | 2 | Thu, Dec 17 | Email 4: Quick answers on price, setup and terms | Email | One version, easy to forward to a general manager. Skip subscribed stores. | Not started |
 | 3 | Tue, Dec 22 | Email 5: Short reminder before the holidays | Email | One version. Skip subscribed stores. | Not started |
 | 3–4 | Dec 23–28 | No emails | n/a | Holiday break | n/a |
-| 4 | Tue, Dec 29 | Email 6: Last call for the launch offer | Email | One version. Skip subscribed stores. Mention a deadline only if it is real. | Not started |
+| 4 | Tue, Dec 29 | Email 6: Last call for the launch price | Email | One version. Skip subscribed stores. The launch price ends January 3, so this deadline must be honored. | Not started |
 | 4 | Sun, Jan 3 | Campaign ends | n/a | Final count starts Mon, Jan 4 | Not started |
 
 Update the "skip" and unsubscribe lists before every send.
@@ -165,6 +187,8 @@ The weekly targets are my estimates, because we have no past campaign results to
 - **Ads:** None.
 - **Email:** Your existing email tool. Check that your plan covers the full list and six sends.
 - **Writing and demos:** Mostly your team's time. Demos will likely take the most time.
+- **Launch offer:** Each dealership pays for its own customers' oil changes and tire rotation discounts, so this isn't a campaign cost.
+- **After launch:** Setup calls, training and monthly summaries take your team's time, so include them when you check the prices.
 - **Spare money:** If you set a budget figure, keep 10–15% aside for surprises, such as sign-up page fixes.
 
 ## 9. Risks and what we'll do
@@ -173,6 +197,7 @@ The weekly targets are my estimates, because we have no past campaign results to
 |---|---|
 | **15% is a high target for email alone.** | Check the running total every Monday. If it's under 8 on Dec 14, change the subject lines, wording or sign-up page before Email 3, and send personal follow-ups to stores that clicked. |
 | **December may be a busy time for stores, and the holidays lower attention.** | Do most of the work in the first two weeks, and send nothing Dec 23–28. |
+| **Stores may push back on paying for the launch offer.** | Bring it up early in the demo, and explain that the work happens in their own service lane and can help bring customers back. |
 | **Decisions may take longer than four weeks, especially if a general manager must sign off.** | Make Email 4 easy to forward. Keep talking to interested stores after January 3. |
 | **Too many people from one store may get the same emails.** | Match people to stores, and stop emailing a store once it subscribes. |
 | **The Maintenance wording may break a brand rule.** | PROCARMA approves the service summary by Nov 13 and the final wording by Dec 4. |
@@ -181,9 +206,9 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 ## 10. Next steps
 
-1. Answer the nine questions at the top, starting with what 30 means and what a store gets.
+1. Answer the seven questions at the top, starting with the prices.
 2. Choose the product name, then check that it's available to use.
-3. Count the people in each group, and how many stores each person belongs to.
+3. Count the people in each group, and how many people each store has on the list.
 4. Name who will run the demos.
 5. Give me the test addresses for the test sends.
 
