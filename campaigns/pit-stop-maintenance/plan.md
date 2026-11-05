@@ -19,6 +19,7 @@
 | Regular price | $299 per month per store. |
 | Launch price | $199 per month for the first 12 months, for stores that sign up by January 3, 2027. |
 | Cancelling | Month to month, with 30 days' notice. |
+| Demos | One video demo per dealership on the waitlist, run by the CES admin team. |
 
 **Setup steps**
 
@@ -32,7 +33,7 @@
 
 | # | Question | Why it matters |
 |---|---|---|
-| 1 | Who runs the video demos, and how many can they do between Dec 8 and Dec 22, and after that? | Most subscriptions may start with a demo, and Emails 5 and 6 still carry a demo link. |
+| 1 | Will the CES admin team have video demo times after Dec 22? | Emails 5 and 6 still carry a demo link. If there are no times, we remove it. |
 
 ## 1. Campaign overview
 
@@ -139,15 +140,15 @@ There are no paid ads and no other channels. The list is small enough for your t
 | Tue, Dec 1 | Sign-up and demo request forms live and tested | Must be live before any email goes out | Not started |
 | Wed, Dec 2 | Send test emails to test addresses only | You give me the test addresses | Not started |
 | Fri, Dec 4 | Final approval of the emails and wording | PROCARMA checks the brand rules | Not started |
-| Fri, Dec 4 | Video demo times set for Dec 8–22, and demo script ready | Demos start right after Email 1 | Not started |
+| Fri, Dec 4 | Video demo times set for Dec 8–22, and demo script ready | The CES admin team runs them, starting right after Email 1 | Not started |
 
 ### Campaign
 
 | Week | Date | Content piece | Channel | Owner/Notes | Status |
 |---|---|---|---|---|---|
 | 1 | Mon, Dec 7 | Email 1: "It's here" announcement | Email | Goes to everyone, with one opening line per group | Not started |
-| 1 | Thu, Dec 10 | Email 2: How it works in your role | Email | Three versions. Skip subscribed stores and anyone with a demo booked. | Not started |
-| 2 | Tue, Dec 15 | Email 3: A useful tip for your role | Email | Three versions. Skip subscribed stores and anyone with a demo booked. | Not started |
+| 1 | Thu, Dec 10 | Email 2: How it works in your role | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
+| 2 | Tue, Dec 15 | Email 3: A useful tip for your role | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
 | 2 | Thu, Dec 17 | Email 4: Quick answers on price, setup and terms | Email | One version, easy to forward to a general manager. Skip subscribed stores. | Not started |
 | 3 | Tue, Dec 22 | Email 5: Short reminder before the holidays | Email | One version. Skip subscribed stores. | Not started |
 | 3–4 | Dec 23–28 | No emails | n/a | Holiday break | n/a |
@@ -162,7 +163,7 @@ Update the "skip" and unsubscribe lists before every send.
 |---|---|---|---|
 | Service summary | What it is, price, setup steps and terms, in plain words | Must-have | Nov 13 |
 | Sign-up form | Short form with the name, price, full terms and store name. PROCARMA follows up to finish the sign-up. | Must-have | Dec 1 |
-| Demo request form | Short form to request a video demo. PROCARMA follows up to set the time. | Must-have | Dec 1 |
+| Demo request form | Short form to request a video demo. The CES admin team follows up to set the time. | Must-have | Dec 1 |
 | Demo script | A short walk-through for each role, following the brand rules | Must-have | Dec 4 |
 | Email 1 | Announcement, one opening line per group | Must-have | Nov 20 draft |
 | Email 2 (3 versions) | How it works in each role | Must-have | Nov 20 draft |
@@ -212,19 +213,19 @@ The weekly targets are my estimates, because we have no past campaign results to
 | **15% is a high target for email alone.** | Check the running total every Monday. If it's under 8 on Dec 14, change the subject lines, wording or sign-up form before Email 3, and send personal follow-ups to stores that clicked. |
 | **December may be a busy time for stores, and the holidays lower attention.** | Do most of the work in the first two weeks, and send nothing Dec 23–28. |
 | **Stores may push back on paying for the launch offer.** | Bring it up early in the demo, and explain that the work happens in their own service lane and can help bring customers back. |
-| **We may run short of video demo times before January 3.** | Set the number of demos your team can do before launch, and add times if requests build up. |
+| **We may run short of video demo times before January 3.** | Up to about 200 stores could each ask for one demo, and Dec 8–22 has 11 working days. Set how many the CES admin team can do each day, and add times if requests build up. |
 | **Decisions may take longer than four weeks, especially if a general manager must sign off.** | Make Email 4 easy to forward. Keep talking to interested stores after January 3. |
-| **Too many people from one store may get the same emails.** | Match people to stores, and stop emailing a store once it subscribes. |
+| **Too many people from one store may get the same emails.** | Match people to stores, and stop emailing a store once it subscribes. Combine requests from one store into one demo. |
 | **The Maintenance wording may break a brand rule.** | PROCARMA approves the service summary by Nov 13 and the final wording by Dec 4. |
 | **Forms or demos may not be ready.** | Don't send Email 1 until both forms are tested and demo times are set. Move the launch if needed. |
 | **Unsubscribes or complaints may rise.** | Check after every send and pause if there's a sudden jump. Every email carries an unsubscribe link and our postal address, and your team should check the US email rules with whoever handles legal matters. |
 
 ## 10. Next steps
 
-1. Answer the question at the top about video demos.
+1. Answer the question at the top about demo times after Dec 22.
 2. Check that the product name is available to use.
 3. Count the people in each group, and how many people each store has on the list.
-4. Name who will run the demos.
+4. Ask the CES admin team how many demos it can run each day.
 5. Give me the test addresses for the test sends.
 
 **Approvals needed:** PROCARMA approves the service summary and final emails.
