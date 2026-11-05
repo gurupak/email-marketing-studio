@@ -43,4 +43,4 @@ Here to help,
 The PROCARMA Team
 
 You're getting this because you joined the Pit Stop Maintenance waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+PROCARMA, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

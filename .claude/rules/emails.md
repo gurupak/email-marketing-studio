@@ -32,4 +32,4 @@ The PROCARMA Team
 Then end with this two-line footer, word for word. Write it as plain text, not inside a code block:
 
 You're getting this because you joined the Pit Stop Maintenance waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+PROCARMA, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
