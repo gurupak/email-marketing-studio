@@ -1,6 +1,6 @@
 # Pit Stop Maintenance: launch plan for dealerships
 
-**Status:** Draft. The offer is approved, but the prices are suggestions. The items under "Must confirm first" need answers before any email goes out.
+**Status:** Draft. The offer and prices are approved. The items under "Must confirm first" need answers before any email goes out.
 
 **Who this is for:** F&I managers, service managers and general managers at about 200 dealerships on our waitlist.
 
@@ -14,10 +14,10 @@
 |---|---|
 | Who we email | About 200 dealerships on the waitlist. Success means 30 of them subscribe. |
 | What a dealership gets | A new service its F&I managers can offer to car buyers as an option, at a price the store sets. Also a setup call, team training and a monthly summary. |
-| Launch offer for its customers | Customers who buy get a complimentary oil change and 5% off a tire rotation, used in the store's own service lane. This is treated as a launch offer, separate from what the contract covers. |
+| Launch offer for its customers | Customers who buy get a complimentary oil change after 5,000 miles and 5% off a tire rotation after 6 months, used in the store's own service lane. This is treated as a launch offer, separate from what the contract covers. |
 | Who pays for the launch offer | The dealership pays for both. |
-| Regular price | $299 per month per store. **Suggested, not based on your costs or on market research.** |
-| Launch price | $199 per month for the first 12 months, for stores that sign up by January 3, 2027. **Suggested, as above.** |
+| Regular price | $299 per month per store. |
+| Launch price | $199 per month for the first 12 months, for stores that sign up by January 3, 2027. |
 | Cancelling | Month to month, with 30 days' notice. |
 
 **Setup steps**
@@ -32,13 +32,12 @@
 
 | # | Question | Why it matters |
 |---|---|---|
-| 1 | Do the suggested prices work with your costs? | The prices must cover setup, training and the monthly summary. Once they're in an email, you need to honor them. |
-| 2 | How many times can a customer use each part of the launch offer, and when does it end? | Brand rule 5 says we must not hide conditions. |
-| 3 | Is the service sold as a Maintenance contract, and does PROCARMA approve the launch offer wording? | Brand rule 3 says we can't describe what a contract covers. |
-| 4 | Does the list show which dealership each person works at? How many people per store? | Without this, we can't stop emailing a store once someone there subscribes. |
-| 5 | Where do people sign up and book a demo? Who runs the demos, and how many can they do between Dec 8 and Dec 22? | Every email links to these pages, and most subscriptions may start with a demo. |
-| 6 | Will PROCARMA do the tracking and monthly summary? | We can only say "less admin" if it does. |
-| 7 | What were people told when they joined this waitlist? | If they joined for something else, Email 1 must explain the change. |
+| 1 | Is the launch offer one oil change and one tire rotation discount per customer, with the 5,000 miles and 6 months counted from the purchase? Does the offer have an end date? **The wording below assumes one of each, counted from the purchase.** | Brand rule 5 says we must not hide conditions. |
+| 2 | Is the service sold as a Maintenance contract, and does PROCARMA approve the launch wording below? | Brand rule 3 says we can't describe what a contract covers. |
+| 3 | Does the list show which dealership each person works at? How many people per store? | Without this, we can't stop emailing a store once someone there subscribes. |
+| 4 | Where do people sign up and book a demo? Who runs the demos, and how many can they do between Dec 8 and Dec 22? | Every email links to these pages, and most subscriptions may start with a demo. |
+| 5 | Will PROCARMA do the tracking and monthly summary? | We can only say "less admin" if it does. |
+| 6 | What were people told when they joined this waitlist? | If they joined for something else, Email 1 must explain the change. |
 
 ## 1. Campaign overview
 
@@ -73,9 +72,28 @@ We group people by job role. We don't yet know how many people are in each group
 
 **Core message:** Pit Stop Maintenance is a maintenance service for your customers, designed to give them a reason to come back to your service lane without adding much admin for your team.
 
-**Launch offer wording (needs PROCARMA approval):** Customers who buy Pit Stop Maintenance get a complimentary oil change and 5% off a tire rotation. Your store covers the cost of both. See the contract for full terms.
+**Launch wording (needs PROCARMA approval):**
 
-**Price wording (once confirmed):** $199 per month for your first 12 months when you sign up by January 3, then $299 per month. Pay month to month, and cancel with 30 days' notice.
+> **Subject:** New: Pit Stop Maintenance for your store
+>
+> **Preview:** One more reason for customers to come back to your service lane.
+>
+> Your service lane already sees your customers. Pit Stop Maintenance is designed to give them one more reason to come back.
+>
+> It's a new maintenance service your F&I team can offer car buyers as an option.
+>
+> **Launch offer:** Customers who buy it get one complimentary oil change after 5,000 miles and 5% off one tire rotation after 6 months, both counted from the purchase. Your store covers the cost of both. See the contract for full terms.
+>
+> **Launch price:** $199 per month for your first 12 months when you sign up by January 3, then $299 per month. Pay month to month, and cancel with 30 days' notice.
+>
+> Book a short demo to see how it works in your store.
+>
+> **Button:** Schedule a demo
+>
+> **Smaller link:** Start your subscription
+>
+> Here to help,
+> The PROCARMA Team
 
 | Group | Supporting message | What we can show |
 |---|---|---|
@@ -206,7 +224,7 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 ## 10. Next steps
 
-1. Answer the seven questions at the top, starting with the prices.
+1. Answer the six questions at the top, starting with the launch offer conditions.
 2. Choose the product name, then check that it's available to use.
 3. Count the people in each group, and how many people each store has on the list.
 4. Name who will run the demos.
