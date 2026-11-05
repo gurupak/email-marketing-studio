@@ -14,7 +14,7 @@
 |---|---|
 | Who we email | About 200 dealerships on the waitlist. Success means 30 of them subscribe. |
 | What a dealership gets | A new service its F&I managers can offer to car buyers as an option, at a price the store sets. Also a setup call, team training and a monthly summary. |
-| Launch offer for its customers | Each customer who buys gets one complimentary oil change after 5,000 miles and 5% off one tire rotation after 6 months, used in the store's own service lane. Both are counted from the purchase and must be used within 1 year of it. This is treated as a launch offer, separate from what the contract covers. |
+| Launch offer for its customers | Each customer who buys gets one complimentary oil change after 5,000 miles or 6 months, whichever comes first, and 5% off one tire rotation after 6 months, used in the store's own service lane. Both are counted from the purchase and must be used within 1 year of it. This is treated as a launch offer, separate from what the contract covers. |
 | Who pays for the launch offer | The dealership pays for both. |
 | Regular price | $299 per month per store. |
 | Launch price | $199 per month for the first 12 months, for stores that sign up by January 3, 2027. |
@@ -32,10 +32,9 @@
 
 | # | Question | Why it matters |
 |---|---|---|
-| 1 | Does the list show which dealership each person works at? How many people per store? | Without this, we can't stop emailing a store once someone there subscribes. |
-| 2 | Where do people sign up and book a demo? Who runs the demos, and how many can they do between Dec 8 and Dec 22? | Every email links to these pages, and most subscriptions may start with a demo. |
-| 3 | Will PROCARMA do the tracking and monthly summary? | We can only say "less admin" if it does. |
-| 4 | What were people told when they joined this waitlist? | If they joined for something else, Email 1 must explain the change. |
+| 1 | Where do people sign up and book a demo? Who runs the demos, and how many can they do between Dec 8 and Dec 22? Will any times be open after Dec 22? | Every email links to these pages, and most subscriptions may start with a demo. Emails 5 and 6 still carry a demo link. |
+| 2 | Will PROCARMA do the tracking as well as the monthly summary? | We can only say "less admin" if it does. |
+| 3 | What were people told when they joined this waitlist? | If they joined for something else, Email 1 must explain the change. |
 
 ## 1. Campaign overview
 
@@ -80,7 +79,7 @@ We group people by job role. We don't yet know how many people are in each group
 >
 > It's a new maintenance service your F&I team can offer car buyers as an option.
 >
-> **Launch offer:** Customers who buy it get one complimentary oil change after 5,000 miles and 5% off one tire rotation after 6 months. Both are counted from the purchase and must be used within 1 year of it. Your store covers the cost of both. See the contract for full terms.
+> **Launch offer:** Customers who buy it get one complimentary oil change after 5,000 miles or 6 months, whichever comes first, and 5% off one tire rotation after 6 months. Both are counted from the purchase and must be used within 1 year of it. Your store covers the cost of both. See the contract for full terms.
 >
 > **Launch price:** $199 per month for your first 12 months when you sign up by January 3, then $299 per month. Pay month to month, and cancel with 30 days' notice.
 >
@@ -214,7 +213,6 @@ The weekly targets are my estimates, because we have no past campaign results to
 | **15% is a high target for email alone.** | Check the running total every Monday. If it's under 8 on Dec 14, change the subject lines, wording or sign-up page before Email 3, and send personal follow-ups to stores that clicked. |
 | **December may be a busy time for stores, and the holidays lower attention.** | Do most of the work in the first two weeks, and send nothing Dec 23–28. |
 | **Stores may push back on paying for the launch offer.** | Bring it up early in the demo, and explain that the work happens in their own service lane and can help bring customers back. |
-| **Customers who drive under 5,000 miles in a year can't use the oil change.** | Decide before launch whether to allow it after 6 months as well. Until then, state the condition clearly and brief the service desk. |
 | **Decisions may take longer than four weeks, especially if a general manager must sign off.** | Make Email 4 easy to forward. Keep talking to interested stores after January 3. |
 | **Too many people from one store may get the same emails.** | Match people to stores, and stop emailing a store once it subscribes. |
 | **The Maintenance wording may break a brand rule.** | PROCARMA approves the service summary by Nov 13 and the final wording by Dec 4. |
@@ -223,7 +221,7 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 ## 10. Next steps
 
-1. Answer the four questions at the top, starting with the dealership names on the list.
+1. Answer the three questions at the top, starting with the sign-up and demo pages.
 2. Check that the product name is available to use.
 3. Count the people in each group, and how many people each store has on the list.
 4. Name who will run the demos.
