@@ -1,6 +1,6 @@
 # Pit Stop Maintenance: launch plan for dealerships
 
-**Status:** Draft. The offer, prices and launch wording are approved. The items under "Must confirm first" need answers before any email goes out.
+**Status:** Draft. The offer, prices, launch wording and demo plan are approved. The steps in part 10 come before any email goes out.
 
 **Who this is for:** F&I managers, service managers and general managers at about 200 dealerships on our waitlist.
 
@@ -19,7 +19,7 @@
 | Regular price | $299 per month per store. |
 | Launch price | $199 per month for the first 12 months, for stores that sign up by January 3, 2027. |
 | Cancelling | Month to month, with 30 days' notice. |
-| Demos | One video demo per dealership on the waitlist, run by the CES admin team. |
+| Demos | One video demo per dealership on the waitlist, run by the CES admin team, with times from Dec 8 and after Dec 22. |
 
 **Setup steps**
 
@@ -29,11 +29,9 @@
 4. The service desk applies the launch offer when the customer comes in.
 5. PROCARMA does the tracking, runs the systems behind the service and sends a monthly summary of plans sold and customers who came back for service.
 
-## Must confirm first
+## Open questions
 
-| # | Question | Why it matters |
-|---|---|---|
-| 1 | Will the CES admin team have video demo times after Dec 22? | Emails 5 and 6 still carry a demo link. If there are no times, we remove it. |
+None. The CES admin team will have demo times after Dec 22, so Emails 5 and 6 keep the demo link.
 
 ## 1. Campaign overview
 
@@ -134,13 +132,13 @@ There are no paid ads and no other channels. The list is small enough for your t
 
 | Finish by | Task | Notes | Status |
 |---|---|---|---|
-| Fri, Nov 13 | Answer "Must confirm first" and check the name is available | Everything else depends on this | Not started |
+| Fri, Nov 13 | Check the name is available | Everything else depends on this | Not started |
 | Fri, Nov 20 | Write the first drafts of all emails and the two forms | Needs the answers above | Not started |
 | Wed, Nov 25 | Sort the list into three groups, match people to stores, and remove duplicates and bad addresses | Thanksgiving is Nov 26, so finish before it | Not started |
 | Tue, Dec 1 | Sign-up and demo request forms live and tested | Must be live before any email goes out | Not started |
 | Wed, Dec 2 | Send test emails to test addresses only | You give me the test addresses | Not started |
 | Fri, Dec 4 | Final approval of the emails and wording | PROCARMA checks the brand rules | Not started |
-| Fri, Dec 4 | Video demo times set for Dec 8–22, and demo script ready | The CES admin team runs them, starting right after Email 1 | Not started |
+| Fri, Dec 4 | Video demo times set from Dec 8, and demo script ready | The CES admin team runs them, starting right after Email 1 | Not started |
 
 ### Campaign
 
@@ -222,10 +220,9 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 ## 10. Next steps
 
-1. Answer the question at the top about demo times after Dec 22.
-2. Check that the product name is available to use.
-3. Count the people in each group, and how many people each store has on the list.
-4. Ask the CES admin team how many demos it can run each day.
-5. Give me the test addresses for the test sends.
+1. Check that the product name is available to use.
+2. Count the people in each group, and how many people each store has on the list.
+3. Ask the CES admin team how many demos it can run each day.
+4. Give me the test addresses for the test sends.
 
 **Approvals needed:** PROCARMA approves the service summary and final emails.
