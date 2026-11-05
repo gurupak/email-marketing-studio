@@ -32,8 +32,7 @@
 
 | # | Question | Why it matters |
 |---|---|---|
-| 1 | Sign-ups and demos happen at dealerships. Does a PROCARMA person visit each store? Who are they, and how many visits can they make between Dec 8 and Dec 22, and after that? | Most subscriptions may start with a demo, and Emails 5 and 6 still carry a demo link. |
-| 2 | What should the email buttons link to, such as a short form to request a store visit? | Every email needs a working next step. |
+| 1 | Who runs the video demos, and how many can they do between Dec 8 and Dec 22, and after that? | Most subscriptions may start with a demo, and Emails 5 and 6 still carry a demo link. |
 
 ## 1. Campaign overview
 
@@ -135,12 +134,12 @@ There are no paid ads and no other channels. The list is small enough for your t
 | Finish by | Task | Notes | Status |
 |---|---|---|---|
 | Fri, Nov 13 | Answer "Must confirm first" and check the name is available | Everything else depends on this | Not started |
-| Fri, Nov 20 | Write the first drafts of all emails and the sign-up page | Needs the answers above | Not started |
+| Fri, Nov 20 | Write the first drafts of all emails and the two forms | Needs the answers above | Not started |
 | Wed, Nov 25 | Sort the list into three groups, match people to stores, and remove duplicates and bad addresses | Thanksgiving is Nov 26, so finish before it | Not started |
-| Tue, Dec 1 | Sign-up and demo booking pages live and tested | Must be live before any email goes out | Not started |
+| Tue, Dec 1 | Sign-up and demo request forms live and tested | Must be live before any email goes out | Not started |
 | Wed, Dec 2 | Send test emails to test addresses only | You give me the test addresses | Not started |
 | Fri, Dec 4 | Final approval of the emails and wording | PROCARMA checks the brand rules | Not started |
-| Fri, Dec 4 | Demo times set for Dec 8–22, and demo script ready | Demos start right after Email 1 | Not started |
+| Fri, Dec 4 | Video demo times set for Dec 8–22, and demo script ready | Demos start right after Email 1 | Not started |
 
 ### Campaign
 
@@ -162,8 +161,8 @@ Update the "skip" and unsubscribe lists before every send.
 | Piece | What it contains | Priority | Finish by |
 |---|---|---|---|
 | Service summary | What it is, price, setup steps and terms, in plain words | Must-have | Nov 13 |
-| Sign-up page | Name, price, full terms, sign-up form that asks for the store name | Must-have | Dec 1 |
-| Demo booking page | Available times for Dec 8–22 | Must-have | Dec 1 |
+| Sign-up form | Short form with the name, price, full terms and store name. PROCARMA follows up to finish the sign-up. | Must-have | Dec 1 |
+| Demo request form | Short form to request a video demo. PROCARMA follows up to set the time. | Must-have | Dec 1 |
 | Demo script | A short walk-through for each role, following the brand rules | Must-have | Dec 4 |
 | Email 1 | Announcement, one opening line per group | Must-have | Nov 20 draft |
 | Email 2 (3 versions) | How it works in each role | Must-have | Nov 20 draft |
@@ -189,9 +188,9 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 | Other measures | How we track it |
 |---|---|
-| Demos booked and completed | Demo booking page |
+| Demos booked and completed | Demo request form |
 | Clicks per email | Email tool. Trust clicks more than opens, because open counts can be wrong. |
-| Sign-up page visits and completed sign-ups | A separate link for each email and group |
+| Sign-up form visits and completed sign-ups | A separate link for each email and group |
 | Subscriptions by group | Sign-up data matched to job role |
 | Unsubscribes and bounces | Email tool, checked after every send |
 
@@ -201,28 +200,28 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 - **Ads:** None.
 - **Email:** Your existing email tool. Check that your plan covers the full list and six sends.
-- **Writing and demos:** Mostly your team's time. Demos will likely take the most time, and store visits could add travel costs.
+- **Writing and demos:** Mostly your team's time. Video demos will likely take the most time.
 - **Launch offer:** Each dealership pays for its own customers' oil changes and tire rotation discounts, so this isn't a campaign cost.
 - **After launch:** Setup calls, training and monthly summaries take your team's time, so include them when you check the prices.
-- **Spare money:** If you set a budget figure, keep 10–15% aside for surprises, such as sign-up page fixes.
+- **Spare money:** If you set a budget figure, keep 10–15% aside for surprises, such as sign-up form fixes.
 
 ## 9. Risks and what we'll do
 
 | Risk | What we'll do |
 |---|---|
-| **15% is a high target for email alone.** | Check the running total every Monday. If it's under 8 on Dec 14, change the subject lines, wording or sign-up page before Email 3, and send personal follow-ups to stores that clicked. |
+| **15% is a high target for email alone.** | Check the running total every Monday. If it's under 8 on Dec 14, change the subject lines, wording or sign-up form before Email 3, and send personal follow-ups to stores that clicked. |
 | **December may be a busy time for stores, and the holidays lower attention.** | Do most of the work in the first two weeks, and send nothing Dec 23–28. |
 | **Stores may push back on paying for the launch offer.** | Bring it up early in the demo, and explain that the work happens in their own service lane and can help bring customers back. |
-| **Store visits may limit how many demos we can do by January 3, especially if stores are far apart.** | Set the number of visits before launch. If that's too few, offer video demos to stores you can't reach. |
+| **We may run short of video demo times before January 3.** | Set the number of demos your team can do before launch, and add times if requests build up. |
 | **Decisions may take longer than four weeks, especially if a general manager must sign off.** | Make Email 4 easy to forward. Keep talking to interested stores after January 3. |
 | **Too many people from one store may get the same emails.** | Match people to stores, and stop emailing a store once it subscribes. |
 | **The Maintenance wording may break a brand rule.** | PROCARMA approves the service summary by Nov 13 and the final wording by Dec 4. |
-| **Pages or demos may not be ready.** | Don't send Email 1 until both pages are tested and demo times are set. Move the launch if needed. |
+| **Forms or demos may not be ready.** | Don't send Email 1 until both forms are tested and demo times are set. Move the launch if needed. |
 | **Unsubscribes or complaints may rise.** | Check after every send and pause if there's a sudden jump. Every email carries an unsubscribe link and our postal address, and your team should check the US email rules with whoever handles legal matters. |
 
 ## 10. Next steps
 
-1. Answer the two questions at the top about store visits and email links.
+1. Answer the question at the top about video demos.
 2. Check that the product name is available to use.
 3. Count the people in each group, and how many people each store has on the list.
 4. Name who will run the demos.
