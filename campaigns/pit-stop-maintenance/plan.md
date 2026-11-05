@@ -13,7 +13,7 @@
 | Topic | Decision |
 |---|---|
 | Who we email | About 200 dealerships on the waitlist. Success means 30 of them subscribe. |
-| What a dealership gets | A new service its F&I managers can offer to car buyers as an option, at a price the store sets. Also a setup call, team training and a monthly summary. |
+| What a dealership gets | A new service its F&I managers can offer to car buyers as an option, at a price the store sets. Also a setup call, team training, tracking and a monthly summary. PROCARMA runs the systems behind the service. |
 | Launch offer for its customers | Each customer who buys gets one complimentary oil change after 5,000 miles or 6 months, whichever comes first, and 5% off one tire rotation after 6 months, used in the store's own service lane. Both are counted from the purchase and must be used within 1 year of it. This is treated as a launch offer, separate from what the contract covers. |
 | Who pays for the launch offer | The dealership pays for both. |
 | Regular price | $299 per month per store. |
@@ -26,15 +26,14 @@
 2. PROCARMA trains the F&I and service teams.
 3. F&I managers offer the service to car buyers as an option at the sale.
 4. The service desk applies the launch offer when the customer comes in.
-5. PROCARMA sends a monthly summary of plans sold and customers who came back for service.
+5. PROCARMA does the tracking, runs the systems behind the service and sends a monthly summary of plans sold and customers who came back for service.
 
 ## Must confirm first
 
 | # | Question | Why it matters |
 |---|---|---|
-| 1 | Where do people sign up and book a demo? Who runs the demos, and how many can they do between Dec 8 and Dec 22? Will any times be open after Dec 22? | Every email links to these pages, and most subscriptions may start with a demo. Emails 5 and 6 still carry a demo link. |
-| 2 | Will PROCARMA do the tracking as well as the monthly summary? | We can only say "less admin" if it does. |
-| 3 | What were people told when they joined this waitlist? | If they joined for something else, Email 1 must explain the change. |
+| 1 | Sign-ups and demos happen at dealerships. Does a PROCARMA person visit each store? Who are they, and how many visits can they make between Dec 8 and Dec 22, and after that? | Most subscriptions may start with a demo, and Emails 5 and 6 still carry a demo link. |
+| 2 | What should the email buttons link to, such as a short form to request a store visit? | Every email needs a working next step. |
 
 ## 1. Campaign overview
 
@@ -63,6 +62,7 @@ We group people by job role. We don't yet know how many people are in each group
 | **The Store Leaders** | General managers | Results for the whole store, with less admin | What does it cost? Who runs it? Is it worth the team's time? | Likely makes the final decision |
 
 - **Matching job roles:** Job titles will vary, so sort them into these three groups before launch. Anyone who doesn't fit joins The Store Leaders.
+- **What they were told:** A new product was launching to help their customers come to the dealership. The emails say "can help", not "will help" (rule 1).
 - **Where they are:** They're busy on the dealership floor and read email in short bursts, so emails must be short and easy to read on a phone.
 
 ## 3. Key messages
@@ -96,7 +96,7 @@ We group people by job role. We don't yet know how many people are in each group
 |---|---|---|
 | The Deal Desk | One more clear option to offer car buyers, which can help grow revenue. | A short example of how to explain it. It must be clear that buying it is optional. |
 | The Service Lane | Can help bring customers back to your service lane. | The steps from sale to service visit. |
-| The Store Leaders | One service that can help with revenue, return visits and admin. | The price, the setup steps and who does what. We can claim less admin only if PROCARMA does the tracking and summary. |
+| The Store Leaders | One service that can help with revenue, return visits and admin. | The price, the setup steps and who does what. PROCARMA does the tracking and runs the systems, so we can say "designed to keep admin low". |
 | Everyone | See it first, then decide. A demo shows you how it works. | A demo and clear terms. |
 
 **Proof:** We have no approved results yet, so we won't use numbers, results or dealer names. Emails explain how the service works instead.
@@ -201,7 +201,7 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 - **Ads:** None.
 - **Email:** Your existing email tool. Check that your plan covers the full list and six sends.
-- **Writing and demos:** Mostly your team's time. Demos will likely take the most time.
+- **Writing and demos:** Mostly your team's time. Demos will likely take the most time, and store visits could add travel costs.
 - **Launch offer:** Each dealership pays for its own customers' oil changes and tire rotation discounts, so this isn't a campaign cost.
 - **After launch:** Setup calls, training and monthly summaries take your team's time, so include them when you check the prices.
 - **Spare money:** If you set a budget figure, keep 10–15% aside for surprises, such as sign-up page fixes.
@@ -213,6 +213,7 @@ The weekly targets are my estimates, because we have no past campaign results to
 | **15% is a high target for email alone.** | Check the running total every Monday. If it's under 8 on Dec 14, change the subject lines, wording or sign-up page before Email 3, and send personal follow-ups to stores that clicked. |
 | **December may be a busy time for stores, and the holidays lower attention.** | Do most of the work in the first two weeks, and send nothing Dec 23–28. |
 | **Stores may push back on paying for the launch offer.** | Bring it up early in the demo, and explain that the work happens in their own service lane and can help bring customers back. |
+| **Store visits may limit how many demos we can do by January 3, especially if stores are far apart.** | Set the number of visits before launch. If that's too few, offer video demos to stores you can't reach. |
 | **Decisions may take longer than four weeks, especially if a general manager must sign off.** | Make Email 4 easy to forward. Keep talking to interested stores after January 3. |
 | **Too many people from one store may get the same emails.** | Match people to stores, and stop emailing a store once it subscribes. |
 | **The Maintenance wording may break a brand rule.** | PROCARMA approves the service summary by Nov 13 and the final wording by Dec 4. |
@@ -221,7 +222,7 @@ The weekly targets are my estimates, because we have no past campaign results to
 
 ## 10. Next steps
 
-1. Answer the three questions at the top, starting with the sign-up and demo pages.
+1. Answer the two questions at the top about store visits and email links.
 2. Check that the product name is available to use.
 3. Count the people in each group, and how many people each store has on the list.
 4. Name who will run the demos.
