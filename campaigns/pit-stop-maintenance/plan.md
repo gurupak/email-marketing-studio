@@ -31,12 +31,20 @@
 
 ## Open questions
 
-None. The CES admin team will have demo times after Dec 22, so Emails 5 and 6 keep the demo link.
+The campaign now has four emails, one version each, so every group gets the same emails. The CES admin team will have demo times after Dec 22, so Email 4 keeps a smaller demo link.
+
+**Waiting for PROCARMA approval:** The emails change some of the approved launch wording in part 3:
+
+- The launch offer now says "used in your service lane" and "This launch offer is separate from the contract. See the contract for what it covers."
+- The price now says "per store" and "January 3, 2027", and spells out that stores that sign up later pay $299 from the start.
+- Email 1 says "Maintenance service" and "F&I managers", where the approved wording says "maintenance service" and "F&I team".
+
+The shared wording is kept in `.claude/rules/emails.md`.
 
 ## 1. Campaign overview
 
 - **Campaign name:** Pit Stop Maintenance launch
-- **Summary:** Six emails over four weeks invite about 200 waitlisted dealerships to book a demo and start a subscription, with most of the effort in the first two weeks.
+- **Summary:** Four emails over four weeks invite about 200 waitlisted dealerships to book a demo and start a subscription, with most of the effort in the first two weeks.
 - **Main goal:** 30 of about 200 dealerships (15%) start a subscription between December 7, 2026 and January 3, 2027.
 - **Second goals:** Book demos with stores that aren't ready yet, and learn which group responds best.
 
@@ -115,14 +123,14 @@ We group people by job role. We don't yet know how many people are in each group
 
 | Emails | Main button | Smaller link | Why |
 |---|---|---|---|
-| 1–4 | "Schedule a demo" | "Start your subscription" | This is the brand's main ask, and managers will likely want to see it first. |
-| 5–6 | "Start your subscription" | "Schedule a demo" | There's less time for demos late in the campaign, so we ask for the decision. |
+| 1–3 | "Schedule a demo" | "Start your subscription" | This is the brand's main ask, and managers will likely want to see it first. |
+| 4 | "Start your subscription" | "Book your demo" | There's less time for demos late in the campaign, so we ask for the decision. |
 
 ## 4. Channel plan
 
 | Channel | Why it fits | What we need | Effort | Budget |
 |---|---|---|---|---|
-| Email | These dealerships joined our waitlist, and email costs little. | Six emails, with versions for each group where useful | Low to medium | Your existing email tool |
+| Email | These dealerships joined our waitlist, and email costs little. | Four emails, one version each | Low to medium | Your existing email tool |
 
 There are no paid ads and no other channels. The list is small enough for your team to send a short personal email, signed by The PROCARMA Team, to any store that clicks but doesn't book.
 
@@ -144,13 +152,11 @@ There are no paid ads and no other channels. The list is small enough for your t
 
 | Week | Date | Content piece | Audience | Purpose | Channel | Owner/Notes | Status |
 |---|---|---|---|---|---|---|---|
-| 1 | Mon, Dec 7 | Email 1: "It's here" announcement | All three groups | Announce the service and invite stores to book a demo | Email | Goes to everyone, with one opening line per group | Not started |
-| 1 | Thu, Dec 10 | Email 2: How it works in your role | The Deal Desk, The Service Lane and The Store Leaders, one version each | Show how it works in each role | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
-| 2 | Tue, Dec 15 | Email 3: A useful tip for your role | The Deal Desk, The Service Lane and The Store Leaders, one version each | Give each role one useful tip | Email | Three versions. Skip subscribed stores and stores with a demo booked. | Not started |
-| 2 | Thu, Dec 17 | Email 4: Quick answers on price, setup and terms | All three groups | Answer questions on price, setup and terms | Email | One version, easy to forward to a general manager. Skip subscribed stores. | Not started |
-| 3 | Tue, Dec 22 | Email 5: Short reminder before the holidays | All three groups | Remind stores before the holidays and ask for a decision | Email | One version. Skip subscribed stores. | Not started |
-| 3–4 | Dec 23–28 | No emails | n/a | n/a | n/a | Holiday break | n/a |
-| 4 | Tue, Dec 29 | Email 6: Last call for the launch price | All three groups | Give a last call for the launch price | Email | One version. Skip subscribed stores. The launch price ends January 3, so this deadline must be honored. | Not started |
+| 1 | Mon, Dec 7 | Email 1: "It's here" announcement | All three groups | Announce the service and invite stores to book a demo | Email | Goes to everyone | Not started |
+| 1 | Thu, Dec 10 | Email 2: How it works, from the sale to the service lane | All three groups | Show who does what, with one tip for each role | Email | One version. Skip subscribed stores and stores with a demo booked. | Not started |
+| 2 | Thu, Dec 17 | Email 3: Quick answers on price, setup and terms | All three groups | Answer questions on price, setup and terms | Email | One version, easy to forward to a general manager. Skip subscribed stores. | Not started |
+| 3–4 | Dec 18–28 | No emails | n/a | n/a | n/a | Holiday break | n/a |
+| 4 | Tue, Dec 29 | Email 4: Last call for the launch price | All three groups | Give a last call for the launch price | Email | One version. Skip subscribed stores. The launch price ends January 3, so this deadline must be honored. | Not started |
 | 4 | Sun, Jan 3 | Campaign ends | n/a | n/a | n/a | Final count starts Mon, Jan 4 | Not started |
 
 Update the "skip" and unsubscribe lists before every send.
@@ -163,12 +169,10 @@ Update the "skip" and unsubscribe lists before every send.
 | Sign-up form | Short form with the name, price, full terms and store name. PROCARMA follows up to finish the sign-up. | Essential | Dec 1 |
 | Demo request form | Short form to request a video demo. The CES admin team follows up to set the time. | Essential | Dec 1 |
 | Demo script | A short walk-through for each role, following the brand rules | Essential | Dec 4 |
-| Email 1 | Announcement, one opening line per group | Essential | Nov 20 draft |
-| Email 2 (3 versions) | How it works in each role | Essential | Nov 20 draft |
-| Email 3 (3 versions) | One useful tip for each role | Essential | Nov 20 draft |
-| Email 4 | Price, setup and terms questions | Essential | Nov 20 draft |
-| Email 5 | Short reminder | Essential | Nov 20 draft |
-| Email 6 | Last call | Essential | Nov 20 draft |
+| Email 1 | Announcement | Essential | Nov 20 draft |
+| Email 2 | How it works, with one tip for each role | Essential | Nov 20 draft |
+| Email 3 | Price, setup and terms questions | Essential | Nov 20 draft |
+| Email 4 | Last call | Essential | Nov 20 draft |
 | Email footer | Our postal address and an unsubscribe link | Essential | Nov 20 draft |
 | Welcome email | Setup steps for new subscribers | Nice to have | Dec 1 |
 
@@ -198,7 +202,7 @@ The weekly targets are my estimates, because we have no past campaign results to
 ## 8. Budget
 
 - **Ads:** None.
-- **Email:** Your existing email tool. Check that your plan covers the full list and six sends.
+- **Email:** Your existing email tool. Check that your plan covers the full list and four sends.
 - **Writing and demos:** Mostly your team's time. Video demos will likely take the most time.
 - **Launch offer:** Each dealership pays for its own customers' oil changes and tire rotation discounts, so this isn't a campaign cost.
 - **After launch:** Setup calls, training and monthly summaries take your team's time, so include them when you check the prices.
@@ -209,10 +213,10 @@ The weekly targets are my estimates, because we have no past campaign results to
 | Risk | What we'll do |
 |---|---|
 | **15% is a high target for email alone.** | Check the running total every Monday. If it's under 8 on Dec 14, change the subject lines, wording or sign-up form before Email 3, and send personal follow-ups to stores that clicked. |
-| **December may be a busy time for stores, and the holidays lower attention.** | Do most of the work in the first two weeks, and send nothing Dec 23–28. |
+| **December may be a busy time for stores, and the holidays lower attention.** | Do most of the work in the first two weeks, and send nothing Dec 18–28. |
 | **Stores may push back on paying for the launch offer.** | Bring it up early in the demo, and explain that the work happens in their own service lane and can help bring customers back. |
 | **We may run short of video demo times before January 3.** | Up to about 200 stores could each ask for one demo, and Dec 8–22 has 11 working days. Set how many the CES admin team can do each day, and add times if requests build up. |
-| **Decisions may take longer than four weeks, especially if a general manager must sign off.** | Make Email 4 easy to forward. Keep talking to interested stores after January 3. |
+| **Decisions may take longer than four weeks, especially if a general manager must sign off.** | Make Email 3 easy to forward. Keep talking to interested stores after January 3. |
 | **Too many people from one store may get the same emails.** | Match people to stores, and stop emailing a store once it subscribes. Combine requests from one store into one demo. |
 | **The Maintenance wording may break a brand rule.** | PROCARMA approves the service summary by Nov 13 and the final wording by Dec 4. |
 | **Forms or demos may not be ready.** | Don't send Email 1 until both forms are tested and demo times are set. Move the launch if needed. |
