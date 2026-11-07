@@ -78,8 +78,15 @@ function checkEmail(email, myEmail) {
   }
 }
 
+// Any exit code other than 0 or 2 lets the tool call go ahead. So if this
+// script crashes for any reason, turn the crash into a block (exit 2).
+process.on("uncaughtException", (err) => {
+  block(`the guard hit an error (${err?.message ?? err}), so the call was stopped to be safe.`);
+});
+
 let raw = "";
 process.stdin.setEncoding("utf8");
+process.stdin.on("error", () => block("could not read the tool call."));
 process.stdin.on("data", (chunk) => (raw += chunk));
 process.stdin.on("end", () => {
   let call;
@@ -88,9 +95,13 @@ process.stdin.on("end", () => {
   } catch {
     block("could not read the tool call.");
   }
+  if (!call || typeof call !== "object") {
+    block("could not read the tool call.");
+  }
 
   // "mcp__resend__send-email" -> "send-email"
   const toolName = String(call.tool_name ?? "");
+  if (toolName === "") block("the tool call has no tool name, so I can't check it.");
   const tool = toolName.split("__").pop();
   const input = call.tool_input ?? {};
   const myEmail = normalize(process.env.MY_EMAIL ?? "");
